@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ali-Barakat/reactUltra/static/css/main.fdb24fcf.chunk.css",
+    "main.js": "/Ali-Barakat/reactUltra/static/js/main.948f3746.chunk.js",
+    "main.js.map": "/Ali-Barakat/reactUltra/static/js/main.948f3746.chunk.js.map",
+    "runtime-main.js": "/Ali-Barakat/reactUltra/static/js/runtime-main.f761ca4f.js",
+    "runtime-main.js.map": "/Ali-Barakat/reactUltra/static/js/runtime-main.f761ca4f.js.map",
+    "static/js/2.aaf88453.chunk.js": "/Ali-Barakat/reactUltra/static/js/2.aaf88453.chunk.js",
+    "static/js/2.aaf88453.chunk.js.map": "/Ali-Barakat/reactUltra/static/js/2.aaf88453.chunk.js.map",
+    "index.html": "/Ali-Barakat/reactUltra/index.html",
+    "precache-manifest.5277df78072a5d5d1db4e2b966be8c26.js": "/Ali-Barakat/reactUltra/precache-manifest.5277df78072a5d5d1db4e2b966be8c26.js",
+    "service-worker.js": "/Ali-Barakat/reactUltra/service-worker.js",
+    "static/css/main.fdb24fcf.chunk.css.map": "/Ali-Barakat/reactUltra/static/css/main.fdb24fcf.chunk.css.map",
+    "static/js/2.aaf88453.chunk.js.LICENSE": "/Ali-Barakat/reactUltra/static/js/2.aaf88453.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f761ca4f.js",
+    "static/js/2.aaf88453.chunk.js",
+    "static/css/main.fdb24fcf.chunk.css",
+    "static/js/main.948f3746.chunk.js"
+  ]
+}
